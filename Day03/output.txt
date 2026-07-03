@@ -1,0 +1,3 @@
+Welcome to Python File Handling
+This file was created using Python.
+Appending a new line.
