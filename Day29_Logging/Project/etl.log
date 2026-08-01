@@ -1,0 +1,11 @@
+2026-08-01 15:36:10,907 - INFO - Program Started
+2026-08-01 15:36:10,907 - INFO - Processed Completed
+2026-08-01 15:36:10,907 - ERROR - Program Finished
+NoneType: None
+2026-08-01 15:37:51,249 - INFO - Program Started
+2026-08-01 15:37:51,249 - INFO - Processing Completed
+2026-08-01 15:37:51,250 - INFO - Program Finished
+2026-08-01 15:38:11,856 - INFO - Program Started
+2026-08-01 15:38:11,856 - INFO - Reading sales.csv
+2026-08-01 15:38:11,856 - INFO - Processing Completed
+2026-08-01 15:38:11,856 - INFO - Program Finished

@@ -1,0 +1,3 @@
+INFO:root:Application Started
+WARNING:root:Memory Usage High
+ERROR:root:Database Connection Failed

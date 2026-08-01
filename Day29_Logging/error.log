@@ -1,0 +1,6 @@
+2026-08-01 15:27:58,230 - ERROR -Division Error
+Traceback (most recent call last):
+  File "D:\Coding\python-data-engineering-roadmap\Day29_Logging\Practice5.py", line 5, in <module>
+    print(f"You entered: {100/number}")
+                          ~~~^~~~~~~
+ZeroDivisionError: division by zero
