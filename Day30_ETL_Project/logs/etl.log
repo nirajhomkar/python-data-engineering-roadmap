@@ -1,0 +1,10 @@
+2026-08-02 13:00:46,029 - INFO - ETL Started
+2026-08-02 13:00:46,030 - INFO - Backup Created
+2026-08-02 13:00:46,038 - INFO - Backup Archived
+2026-08-02 13:00:46,038 - INFO - Reading config.json
+2026-08-02 13:00:46,039 - INFO - Reading sales.csv
+2026-08-02 13:00:46,040 - INFO - Transformation Completed
+2026-08-02 13:00:46,040 - INFO - Load Completed
+2026-08-02 13:00:46,040 - INFO - Summary Created
+2026-08-02 13:00:46,041 - INFO - Original File Archived
+2026-08-02 13:00:46,041 - INFO - ETL Pipeline Completed Successfully
