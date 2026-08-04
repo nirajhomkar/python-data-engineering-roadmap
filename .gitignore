@@ -1,13 +1,23 @@
-# Ignore Python cache files
+# Python
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
 
 # Virtual environments
 venv/
 .venv/
+env/
 
-# Environment variables
-.env
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
 
-# VS Code settings
+# Anaconda
+anaconda_projects/
+
+# VS Code
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
